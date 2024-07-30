@@ -17,20 +17,20 @@
   This Code is used to gererate a ReadMe for projects.
 
   ## License
-  Apache 2.0
+  Apache 2.0,
   MIT
 
   ## Contributing
   Mason Ott
 
   ## Recources
-  youtube.com
-  wesbro.com
-  w3schools.com
-  developer.mozzilla.org
+  youtube.com,
+  wesbro.com,
+  w3schools.com,
+  developer.mozzilla.org,
   
 
   ## Questions
   Please provide questions to 
-  *Email: Mason.ott@gmail.com
+  *Email: Mason.ott@gmail.com,
   *GitHub: https://github.com/MaceOtt

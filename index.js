@@ -14,7 +14,7 @@ const readmeQuestions =[
         {
             type: 'input',
             message: 'Please discribe your node.js?',
-            name: 'Discription',
+            name: 'Description',
         },
         {
             type: 'input',
@@ -117,7 +117,6 @@ inquirer.prompt(readmeQuestions).then((answer) => {
     const readmePage = makeReadme(answer);
     // Fs used to write content in 'readmePage' to file name 'ReadMe.md'
     fs.writeFile('ReadMe.md', readmePage, (err) =>{
-        // 
         if (err) throw err;
         console.log('The readMe has been Made');
     });
